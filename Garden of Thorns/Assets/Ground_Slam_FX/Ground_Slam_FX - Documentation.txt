@@ -1,0 +1,12 @@
+Load "Ground_Slam_FX.unity" for an example scene, or simply drag GroundSlam.prefab from Prefab folder (in the Project window) into the Hierarchy window. When placing the effect in your own scene, make sure the prefab is at exactly the same position on the Y axis as your ground (so if your ground is at 0, set the Y transformation to 0 too). This is to make sure the cracked ground mesh sits slightly above the ground, remaining visible without intersecting.
+
+Click the left mouse button to trigger the ground slam and right mouse button to reset it.
+
+When using the assets with your own ground material you'll likely need to alter Quake_Ground_mtl so it matches; simply plug in the relevant textures into the shader or replace the material with your own.
+
+Have fun!
+
+Thanks for purchasing this asset - please consider rating or writing a review about it. If you have any questions then don't hesitate to get in touch at bendurrant@rivermillstudios.com 
+
+If you use this or any of Rivermill Studios other assets then we'd love to know (and help you promote them!).
+

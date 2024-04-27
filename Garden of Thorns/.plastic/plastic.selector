@@ -1,0 +1,3 @@
+rep "Garden of Thorns@CollegeSobble@cloud"
+  path "/"
+    smartbranch "/main"
